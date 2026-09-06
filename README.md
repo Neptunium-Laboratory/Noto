@@ -117,11 +117,8 @@ Noto is released under the [MIT License](LICENSE). You may use, copy, modify, me
 [4]: https://developer.android.com/studio "Android Studio official website"
 
 
-    
-
-    
-
-  <img src="assets/logo-favicon.png" alt="Neptunium Laboratory logo" width="72" />
+<div align="center">
+<img src="assets/logo-favicon.png" alt="Neptunium Laboratory logo" width="72" />
     
 
   <sub>Developed by <strong>Neptunium Laboratory</strong></sub>
