@@ -116,8 +116,7 @@ Noto is released under the [MIT License](LICENSE). You may use, copy, modify, me
 
 [4]: https://developer.android.com/studio "Android Studio official website"
 
-<div align="center">
-<sub>Noto · Capture what matters.</sub>
+
     
 
     
