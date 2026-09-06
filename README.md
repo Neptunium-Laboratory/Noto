@@ -1,5 +1,5 @@
 <div align="center">
-<img src="assets/notologo.png" alt="Noto app icon" width="140" />
+<img src="assets/noto-logo.png" alt="Noto app icon" width="140" />
 
 # Noto
 
